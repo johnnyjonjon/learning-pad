@@ -1,0 +1,21 @@
+h1{
+    color: mediumaquamarine;
+}
+h3{
+    color:aqua;
+    background-color: rgb(100, 26, 133);
+    text-align: center;
+    border: 10px greenyellow dotted;
+    border-radius: 100%;
+    padding-block: 30px;
+
+}
+.rambo {
+    background-color: gray;
+}
+.dumbo {
+    background-color: pink;
+}
+#important {
+    color: yellow;
+}
